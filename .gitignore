@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.env
+.env.*
+!.env.example
+*.log
+.slim/deepwork/
+/.codegraph/
+/AGENTS.md.bak-*
+data/research/
+/data/phase4-live/
+/data/phase4-replay/
+/data/phase4-evidence/
